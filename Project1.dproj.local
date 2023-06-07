@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/13 19:30:33.000.275,=C:\Users\mmada\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 19:32:04.000.107,D:\Praktikum\Delphi\Unit1.dfm=C:\Users\mmada\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/13 19:32:04.000.107,D:\Praktikum\Delphi\Unit1.pas=C:\Users\mmada\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 19:32:07.000.889,D:\Praktikum\Delphi\Project1.dproj=C:\Users\mmada\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/13 20:35:52.000.099,=D:\Praktikum\Delphi\Unit2.pas</Transaction>
+    <Transaction>2023/05/13 22:01:13.000.349,=D:\Praktikum\Delphi\Unit3.pas</Transaction>
+    <Transaction>2023/05/20 21:20:39.000.844,=D:\Praktikum\Delphi\Unit3.pas</Transaction>
+    <Transaction>2023/06/03 19:32:06.000.089,=D:\Praktikum\Delphi\Unit4.pas</Transaction>
+    <Transaction>2023/06/03 19:58:15.000.049,=D:\Praktikum\Delphi\Unit5.pas</Transaction>
+    <Transaction>2023/06/03 20:43:52.000.675,=D:\Praktikum\Delphi\Unit6.pas</Transaction>
+    <Transaction>2023/06/06 23:47:38.000.742,=D:\Praktikum\Delphi\Unit7.pas</Transaction>
+    <Transaction>2023/06/06 23:52:05.000.851,D:\Praktikum\Delphi\Unit2.pas=</Transaction>
+    <Transaction>2023/06/06 23:52:22.000.509,D:\Praktikum\Delphi\Unit2.dfm=D:\Praktikum\Delphi\Unit7.dfm</Transaction>
+    <Transaction>2023/06/06 23:52:22.000.519,D:\Praktikum\Delphi\Unit7.dfm=D:\Praktikum\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2023/06/06 23:52:22.000.519,D:\Praktikum\Delphi\Unit7.pas=D:\Praktikum\Delphi\Unit2.pas</Transaction>
+    <Transaction>2023/06/06 23:52:22.000.509,D:\Praktikum\Delphi\Unit2.pas=D:\Praktikum\Delphi\Unit7.pas</Transaction>
+    <Transaction>2023/06/06 23:52:40.000.285,D:\Praktikum\Delphi\Unit7.pas=D:\Praktikum\Delphi\Unit2.pas</Transaction>
+    <Transaction>2023/06/06 23:52:40.000.278,D:\Praktikum\Delphi\Unit2.dfm=D:\Praktikum\Delphi\Unit7.dfm</Transaction>
+    <Transaction>2023/06/06 23:52:40.000.278,D:\Praktikum\Delphi\Unit2.pas=D:\Praktikum\Delphi\Unit7.pas</Transaction>
+    <Transaction>2023/06/06 23:52:40.000.285,D:\Praktikum\Delphi\Unit7.dfm=D:\Praktikum\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2023/06/06 23:56:06.000.352,=D:\Praktikum\Delphi\Unit8.pas</Transaction>
+    <Transaction>2023/06/07 01:26:50.000.195,=D:\Praktikum\Delphi\tugas_mandiri2.pas</Transaction>
+    <Transaction>2023/06/07 01:35:29.000.576,=D:\Praktikum\Delphi\latihan2.pas</Transaction>
+    <Transaction>2023/06/08 01:19:56.000.356,=D:\Praktikum\Delphi\Unit11.pas</Transaction>
+    <Transaction>2023/06/08 01:35:48.033,=F:\Download\PraktekMandiri1\Unit9.pas</Transaction>
+    <Transaction>2023/06/08 01:37:03.416,F:\Download\PraktekMandiri1\Unit9.pas=</Transaction>
+    <Transaction>2023/06/08 01:38:00.504,=F:\Download\PraktekMandiri1\Unit9.pas</Transaction>
+    <Transaction>2023/06/08 01:38:13.631,F:\Download\PraktekMandiri1\Unit9.pas=</Transaction>
+    <Transaction>2023/06/08 01:39:13.482,=D:\Praktikum\Delphi\Unit9.pas</Transaction>
+  </Transactions>
+</BorlandProject>
